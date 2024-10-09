@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="Mapa">MAPA</string>
+    <string name="Camera">CAMARA</string>
+    <string name="Video">VIDEO</string>
+    <string name="Take">TAKE</string>
+    <string name="pick_galery">PICK FROM GALLERY</string>
+    <string name="mover_mapa">Mover el mapa con la posicion del usuario?</string>
+    <string name="ingrese_direccion">Ingrese una direccion</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
